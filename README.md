@@ -4,11 +4,6 @@
 
 Analyze monthly revenue and order volume using MySQL.
 
-## Tools
-
-* MySQL
-* SQL
-* MySQL Workbench
 
 ## SQL Concepts
 
@@ -19,15 +14,6 @@ Analyze monthly revenue and order volume using MySQL.
 * `LIMIT` – Top 3 months
 * `WHERE` – Time-period filtering
 
-## Key Result
-
-🏆 Highest Sales Month: **May 2026 – 6,000**
-
-## Files
-
-* `task6_sales_trend_analysis.sql`
-* `results.csv`
-* `README.md`
 
 ## Author
 
