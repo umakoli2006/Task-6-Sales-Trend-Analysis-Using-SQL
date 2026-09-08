@@ -1,0 +1,2 @@
+SHOW TABLES;
+DESCRIBE online_sales;
